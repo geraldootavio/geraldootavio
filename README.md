@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geraldootavio
 - 👀 I’m interested in Computer programming.
-- 🌱 I'm currently learning HTML5, CSS3 and JavaScript.
+- 🌱 I'm currently studying Systems Analysis and Development.
 - 💞️ I’m looking to collaborate on creating websites and mobile applications.
 - 📫 How to reach me: @gerah.figueiredo97
 
